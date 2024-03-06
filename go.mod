@@ -3,7 +3,7 @@ module github.com/ec2ainun/poc-nats
 go 1.18
 
 require (
-	github.com/cloudevents/sdk-go/v2 v2.11.0
+	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/google/uuid v1.3.0
 	github.com/nats-io/nats.go v1.28.0
 	github.com/pkg/errors v0.9.1
